@@ -19,6 +19,9 @@ a {
     color: unset;
 }
 
+h1, p{
+    margin: 0;
+}
 
 .container {
     margin: 0 auto;
