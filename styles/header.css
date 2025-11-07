@@ -29,7 +29,7 @@
     position: relative;
 }
 
-.nav-link::after{
+.nav-link::after {
     content: "";
     position: absolute;
     left: 0;
